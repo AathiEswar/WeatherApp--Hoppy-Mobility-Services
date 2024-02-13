@@ -5,7 +5,7 @@ Step 1 : Clone the git repository using the command
 
  Step 2 : Navigate to the project directory using the command cd <project-name>
 
- Step 3 : Install the Dependencies using the command "flutter pub get" 
+ Step 3 : Enable Dart SDK and install the Dependencies using the command "flutter pub get" 
 
  Step 4 : Connect Device or Emulator and add configuraton as "Flutter" and enter entry point as "main.dart"
 
